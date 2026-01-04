@@ -1,4 +1,4 @@
-Laboratuvar-test-sonuclar-takibi-
+-LABORATUVAR TEST SONUÇLARI TAKİBİ-
 Bu proje, hastaların tıbbi laboratuvar test sonuçlarını kaydetmek, listelemek, düzenlemek ve kalıcı olarak saklamak amacıyla geliştirilmiş bir masaüstü uygulamasıdır. Java programlama dili ve JavaFX arayüz kütüphanesi kullanılarak tasarlanmıştır.
 
 Projenin temel amacı, manuel kağıt işlemlerini azaltarak hasta test verilerinin dijital ortamda düzenli bir tablo yapısında tutulmasını sağlamaktır.
